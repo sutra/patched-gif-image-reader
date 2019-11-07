@@ -7,7 +7,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.oxerr.de.onyxbits.giftedmotion</groupId>
 	<artifactId>patched-gif-image-reader</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>Patched GIF Image Reader</name>
 	<description><![CDATA[https://stackoverflow.com/questions/22259714/arrayindexoutofboundsexception-4096-while-reading-gif-file]]></description>
 	<url>https://oxerr.org/patched-gif-image-reader</url>
