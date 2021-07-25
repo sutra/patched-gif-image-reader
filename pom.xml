@@ -16,7 +16,7 @@
 	<version>1.0.1-SNAPSHOT</version>
 	<name>Patched GIF Image Reader</name>
 	<description><![CDATA[https://stackoverflow.com/questions/22259714/arrayindexoutofboundsexception-4096-while-reading-gif-file]]></description>
-	<url>https://oxerr.org/patched-gif-image-reader</url>
+	<url>https://www.oxerr.org/patched-gif-image-reader</url>
 	<inceptionYear>2019</inceptionYear>
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
